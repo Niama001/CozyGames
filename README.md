@@ -18,6 +18,13 @@ A simple Express.js web app that displays a list of cozy video games. Users can 
 - [x] Vanilla HTML/CSS/JS (no frontend framework)
 
 ---
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+
+
+---
 
 ## 🎮 Games Included
 - Stardew Valley

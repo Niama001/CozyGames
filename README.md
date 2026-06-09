@@ -22,7 +22,7 @@ A simple Express.js web app that displays a list of cozy video games. Users can 
 
 Here's a walkthrough of implemented user stories:
 
-
+<img src='https://github.com/Niama001/CozyGames/blob/843b13bb010c8933ec69658e98f597d4bf158731/CozyGames.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ---
 

@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Niama001/CozyGames/blob/949f89c8150bea35fc967e341014718a863467e8/cozyGames.gif' width='' alt='Video Walkthrough' />
 
 
 GIF created with ScreenToGif 
